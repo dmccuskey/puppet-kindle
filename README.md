@@ -4,8 +4,7 @@ Read more than 1 million* Kindle books on your computer with the free Kindle rea
 
 See http://www.amazon.com/gp/feature.html/ref=kcp_mac_ln_ar?docId=1000464931 for more. 
 
-[![Build
-Status](https://travis-ci.org/boxen/puppet-kindle.png?branch=master)](https://travis-ci.org/boxen/puppet-kindle)
+[![Build Status](https://travis-ci.org/boxen/puppet-kindle.png?branch=master)](https://travis-ci.org/boxen/puppet-kindle)
 
 ## Usage
 
